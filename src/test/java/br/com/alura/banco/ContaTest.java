@@ -1,6 +1,7 @@
-package br.com.alura;
+package br.com.alura.banco;
 
 
+import br.com.alura.banco.Conta;
 import org.junit.jupiter.api.Test;
 
 
