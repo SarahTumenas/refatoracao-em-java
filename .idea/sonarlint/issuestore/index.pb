@@ -17,14 +17,10 @@ w
 G.idea/sonarlint/issuestore/a/2/a225a7e79496c5a1d847c78c3db651eb302ec867,8\a\8ad0b871d56422ee6e187a7a839d74e6124c44db
 _
 /src/test/java/br/com/alura/banco/ContaTest.java,b\a\ba75443acf4e520945e9951680a8c15dab904f6f
-i
-9src/main/java/br/com/alura/livraria/dominio/Telefone.java,5\b\5b338e47d222664021209e14d814a1c5bdc675c6
 r
 Bsrc/main/java/br/com/alura/livraria/dominio/CarrinhoDeCompras.java,2\5\258096919d2cab29b0fae9908a0f5544429d8469
 f
 6src/main/java/br/com/alura/livraria/dominio/Livro.java,5\1\51a2b4c1874f74c6e63a76c12fa4e89da8b788d5
-m
-=src/test/java/br/com/alura/livraria/dominio/TelefoneTest.java,5\1\513f5743f9406267c7e77dc128bdf0105a307f19
 t
 Dsrc/main/java/br/com/alura/livraria/dominio/CalculadoraDeCompra.java,9\3\930c761d336ab5856e0fd1be2f4a8d7f680b54ca
 e
