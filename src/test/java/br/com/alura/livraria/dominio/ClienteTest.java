@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class ClienteTest {
     @Test
     void igualdade() {
-        Cliente outroCliente = new Cliente(ID_CLIENTE, UM_TELEFONE);
+        Cliente outroCliente = new Cliente(ID_CLIENTE, UM_TELEFONE, CEP);
 
         assertEquals(UM_CLIENTE, outroCliente);
         assertEquals(UM_CLIENTE.hashCode(), outroCliente.hashCode());
