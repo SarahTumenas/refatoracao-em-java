@@ -17,16 +17,12 @@ w
 G.idea/sonarlint/issuestore/a/2/a225a7e79496c5a1d847c78c3db651eb302ec867,8\a\8ad0b871d56422ee6e187a7a839d74e6124c44db
 _
 /src/test/java/br/com/alura/banco/ContaTest.java,b\a\ba75443acf4e520945e9951680a8c15dab904f6f
-f
-6src/main/java/br/com/alura/livraria/dominio/Livro.java,5\1\51a2b4c1874f74c6e63a76c12fa4e89da8b788d5
 t
 Dsrc/main/java/br/com/alura/livraria/dominio/CalculadoraDeCompra.java,9\3\930c761d336ab5856e0fd1be2f4a8d7f680b54ca
 e
 5src/main/java/br/com/alura/livraria/dominio/ISBN.java,0\9\0989e55a827ae9838da912420b9f507c7932561e
 h
 8src/main/java/br/com/alura/livraria/dominio/Validar.java,e\7\e7445c500f12b94ec03171e81c12a6a12f8829b8
-j
-:src/test/java/br/com/alura/livraria/dominio/LivroTest.java,f\7\f717b2a7cde1c282abb17dd1f3292d9d5d9bb41c
 k
 ;src/test/java/br/com/alura/livraria/dominio/LivrosTest.java,4\c\4c98e3738b73e9c9e23578c3e85c543442b021b4
 i
@@ -49,5 +45,3 @@ h
 8src/main/java/br/com/alura/livraria/dominio/Cliente.java,c\b\cb32e71506aa5b27be3031fbbfa31dbffe209583
 l
 <src/test/java/br/com/alura/livraria/dominio/ClienteTest.java,f\8\f8aa50f3a18a6a0ec989f15334acf6378bfc9b2c
-r
-Bsrc/test/java/br/com/alura/livraria/dominio/ObjetosParaTestes.java,9\7\97c4ea0b67d61e48a37f5c3ee3f6a511f365931d
