@@ -1,13 +1,13 @@
 package br.com.alura.livraria.dominio;
 
-import static java.time.DayOfWeek.SATURDAY;
-import static java.time.DayOfWeek.SUNDAY;
-import static java.util.Arrays.asList;
+import org.javamoney.moneta.Money;
 
 import java.time.LocalDate;
 import java.util.Iterator;
 
-import org.javamoney.moneta.Money;
+import static java.time.DayOfWeek.SATURDAY;
+import static java.time.DayOfWeek.SUNDAY;
+import static java.util.Arrays.asList;
 
 public class CarrinhoDeCompras implements Iterable<Livro> {
 
@@ -71,7 +71,8 @@ public class CarrinhoDeCompras implements Iterable<Livro> {
         return livros.iterator();
     }
 
-    public Livros getLivros() {
-        return livros;
+   public void adicionar (Livro livro){
+        livros.adicionar(livro);
+
     }
 }
